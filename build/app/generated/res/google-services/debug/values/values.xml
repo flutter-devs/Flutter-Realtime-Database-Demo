@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">744931634953-838102sk6ulotr9t1hkvnom3ohvs0cjs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flutter-realtime-demo-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">744931634953</string>
+    <string name="google_api_key" translatable="false">AIzaSyCXhavaGnBW6PYY985HpREWBBq0FDNa8E4</string>
+    <string name="google_app_id" translatable="false">1:744931634953:android:898e0bbdf65a5a0176add8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXhavaGnBW6PYY985HpREWBBq0FDNa8E4</string>
+    <string name="google_storage_bucket" translatable="false">flutter-realtime-demo-app.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-realtime-demo-app</string>
+</resources>

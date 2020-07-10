@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744931634953",
+    "firebase_url": "https://flutter-realtime-demo-app.firebaseio.com",
+    "project_id": "flutter-realtime-demo-app",
+    "storage_bucket": "flutter-realtime-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744931634953:android:898e0bbdf65a5a0176add8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_realtime_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744931634953-838102sk6ulotr9t1hkvnom3ohvs0cjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhavaGnBW6PYY985HpREWBBq0FDNa8E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744931634953-838102sk6ulotr9t1hkvnom3ohvs0cjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
